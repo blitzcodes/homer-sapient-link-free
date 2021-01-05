@@ -1,16 +1,17 @@
-title: Link free
-shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
-description: ''
-lang: en
+title: Homer Sapient
+shortTitle: Homer Sapient
+description: Recent Homer Sapient Activity
 logo: logo.png
 favicon: favicon.png
-rounded: '16'
 colors:
-  DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
-  accent: '#262626'
-  background: '#262626'
+  DEFAULT: "#FAFAFA"
+  highlight: "#2b6c7c"
+  accent: "#ffffff"
+  background: "#212121"
+rounded: "4"
+siteUrl: https://bio.homersapient.one
+lang: en
 tracking:
   which: none
-  id: ''
+  id: ""
+  label: none
